@@ -24,7 +24,7 @@ https://lvdmaaten.github.io/tsne/
 
 Running the program with the following command will run with some default parameters, edit these in file if you want to change them.
 ```
-python -i tae.py
+python -i ae.py
 ```
 To train an encoder, use the following command
 ```
